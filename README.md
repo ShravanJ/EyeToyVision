@@ -8,3 +8,5 @@ Due to the size of the repository, I was unable to upload the complete source co
 Info
 ====
 Information about this project can be found here: https://thestackunderflowblog.wordpress.com/2017/07/04/eyetoy-vision-facial-recognition-using-the-playstation-2-eyetoy-camera/
+
+There is still a *lot* of work to be done in terms of the recognition and storing multiple trained models. I will continue to work on this over the next few months. 
